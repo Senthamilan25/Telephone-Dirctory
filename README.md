@@ -1,4 +1,4 @@
-# Telephone-Dirctory
+# Telephone-Directory
 #CURD operation using the python
 
 import pymongo
